@@ -8,8 +8,8 @@
               xmlns:android="http://schemas.android.com/apk/res/android"
               xmlns:map="http://schemas.android.com/apk/res-auto"
               xmlns:tools="http://schemas.android.com/tools"
-              android:layout_width="384dp"
-              android:layout_height="640dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
               tools:context="be.devbunnies.pokelocation.MapsActivity"
               tools:layout_editor_absoluteY="0dp"
               tools:layout_editor_absoluteX="0dp"/>
